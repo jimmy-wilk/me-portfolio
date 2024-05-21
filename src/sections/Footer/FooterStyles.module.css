@@ -1,0 +1,36 @@
+.container {
+  background-color: transparent;
+  color: #ffffff;
+  padding: 40px 20px;
+  text-align: center;
+  border-top: 1px solid #cccccc;
+}
+.navLinks {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.navLinks li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.navLinks a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.navLinks a:hover {
+  color: #c6d1cf;
+}
+
+
+
+
+.footerBottom {
+  margin-top: 20px;
+  font-size: 14px;
+}
