@@ -9,7 +9,6 @@ function App() {
   return (
     <>
       <Hero />
-      {/* <Projects /> */}
       <Skills />
       <Contact />
       <Footer />
